@@ -9,4 +9,4 @@ Minecraft Voxel Engine:
 * Regions are 32x32x16 chunks
 * Biomes?? Random but how many chunks?
 
-- Try to remake this and find pitfalls and benefits
+(Try to remake this to find pitfalls and benefits.)
