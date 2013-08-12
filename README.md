@@ -10,3 +10,22 @@ Minecraft Voxel Engine:
 * Biomes?? Random but how many chunks?
 
 (Try to remake this to find pitfalls and benefits.)
+
+
+Stages of World Building:
+* Universe creation / physics generation
+* Solar system generation
+* Rocky-surface planet generation
+* Seas, air, and climate generation
+* Life generation
+* Algae generation
+* Water biome generation
+* Water animal generation
+* Water ecology generation
+* Land plant generation
+* Land Biome generation
+* Land animal generation
+* Land ecology
+* Disasters / Sweeping Changes
+
+<sub>Generation = formation to homeostasis</sub> 
