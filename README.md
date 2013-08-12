@@ -27,7 +27,7 @@ Elements involved with procedural world creation.
 * Land ecology
 * Disasters / Sweeping Changes
 
-<sub>Generation = formation to homeostasis</sub> 
+<sub>Generation = formation to ~homeostasis</sub> 
 
 ####Universe Creation / Physics Generation:####
 * What is the sequence that created the universe?
