@@ -4,10 +4,11 @@ WorldCraft
 Elements involved with procedural world creation.
 
 ### To Do:
-* Lay out plans for this repo (goals, language)
+* Generate a Galaxy
 
 ####Stages of World Building:####
-* Universe creation / physics generation
+* <s>Universe creation / physics generation</s> *table this, it is kind of dumb*
+* Galaxy generation [Solution](http://jsfiddle.net/Shaners/zhr7z3xh/)
 * Solar system generation
 * Rocky-surface planet generation
 * Climate generation
@@ -21,12 +22,69 @@ Elements involved with procedural world creation.
 * Land ecology
 * Disasters / Sweeping Changes
 
-<sub>Generation = formation to ~homeostasis</sub> 
+<small>Generation = formation to ~homeostasis</small> 
 
-####Universe Creation / Physics Generation:####
-* What is the sequence that created the universe?
-* What are the rules of the universe (physics?)
-* How old is the universe?
+<h4><s>Universe Creation / Physics Generation:</s></h4>
+* <s>What is the sequence that created the universe?</s>
+* <s>What are the rules of the universe (physics?)</s>
+* <s>How old is the universe?</s>
+
+####Galaxy Generation####
+* What are the properties of a Galaxy?
+  * Gravitational bound system
+  * Morphology
+      * Elliptical
+      * Spiral
+      * Irregular
+      * Starburst
+  * Diameter: 1,000 to 100,000 parsecs
+  * Part of:
+      * Galaxy Group
+          * Galaxy Cluster
+              * Supercluster
+                  * Observable Universe
+  * Contains:
+      * Stars
+          * Amount: 10^3 to 10^14
+          * Orbit Galaxy's center of mass
+          * Thermonuclear fusion of hydrogen to helium produces radient energy
+          * Characteristics
+              * Age
+              * Size
+              * Composition
+              * Magnetic Field
+              * Mass
+              * Rotation
+              * Temperature
+              * Luminosity
+              * Magnitude
+      * Stellar remnants
+          * White Dwarfs
+          * Neutron Stars
+          * Other exotic dense stars
+              * Quark / Strange Stars
+              * Preon Stars
+              * Q Stars
+              * Electroweak Stars
+              * Boson Stars
+              * Planck Stars
+              * Dark Stars
+          * Black Holes
+      * Intersteller medium
+          * Gas
+          * Dust
+          * Cosmic rays
+      * Dark Matter
+
+####Galaxy To Do:####
+* <s>Random Morphology Selection</s>
+* <s>Random Diameter Selection</s>
+* <s>Random Amount of Stars Selection</s>
+* Accept a seed
+* Research Stellar remnants
+* Research Intersteller mediums
+* Research Dark matter
+          
 
 ####Solar System Creation####
 * Star generation
